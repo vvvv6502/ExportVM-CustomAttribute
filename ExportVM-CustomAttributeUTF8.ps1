@@ -1,4 +1,4 @@
-#Executable Script
+﻿#Executable Script
 $timestamp = Get-Date -format "yyyyMMdd-HH.mm"
 $startdir = "D:\GitHubZone\ExportVM-CustomAttribute"
 $exportfile = "$startdir\vm-custom-attributes-$timestamp.csv"
